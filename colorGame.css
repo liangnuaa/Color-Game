@@ -18,3 +18,7 @@ h1{
 	width: 600px;
 	margin: 0px auto;
 }
+
+#message{
+	color: white;
+}
